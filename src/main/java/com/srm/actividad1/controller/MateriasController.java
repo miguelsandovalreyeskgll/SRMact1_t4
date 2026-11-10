@@ -13,7 +13,7 @@ public class MateriasController {
     private final List<String> materias = List.of(
         "Programacion Web",
         "Servicios Web",
-        "Conmutacion y Enrutamiento"
+        "Conmutacion y Enrutamiento."
         "Programacion web2"
     );
 
