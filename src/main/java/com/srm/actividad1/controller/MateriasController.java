@@ -14,7 +14,7 @@ public class MateriasController {
         "Programacion Web",
         "Servicios Web",
         "Conmutacion y Enrutamiento."
-        "Programacion web2."
+        "Programacion web2"
     );
 
     //  hacer GET /api/materias.
